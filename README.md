@@ -2,8 +2,7 @@
 
 A premium, fully responsive wedding invitation website designed with love, elegance, and a touch of modern interactivity. This single‑page HTML site serves as a digital save‑the‑date and invitation, featuring a countdown timer, scroll‑reveal animations, a visual timeline, and a beautiful gallery—all built with pure HTML, CSS, and JavaScript.
 
-![Screenshot](<img width="947" height="592" alt="image" src="https://github.com/user-attachments/assets/bb023734-1b1f-47ee-a6b4-9ce1171776a3" />
-)
+![Screenshot](https://github.com/user-attachments/assets/bb023734-1b1f-47ee-a6b4-9ce1171776a3)
 
 ---
 
